@@ -9,6 +9,7 @@ precoLivros.sort((a,b) => {
 })
 console.log(precoLivros)
     */
+
 let maiorPreco = 0
 let indice = 0
 for(let j = precoLivros.length;j > 0 ;j--){
